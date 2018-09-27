@@ -4,6 +4,7 @@ import { ComponentClass } from 'react';
 import { connect } from '@tarojs/redux';
 import { pageSelector } from "./redux/selector";
 import { doChangeState } from "./redux/action";
+// import { connect } from 'react-redux';
 
 import './index.less';
 
